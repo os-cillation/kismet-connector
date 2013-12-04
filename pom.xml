@@ -11,7 +11,7 @@
     <groupId>de.oscillation.kismet</groupId>
     <artifactId>kismet-connector</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <name>kismet-connector</name>
     <description>Implementation of the Kismet Client/Server Message Protocol for Java.</description>
